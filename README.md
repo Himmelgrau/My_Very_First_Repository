@@ -15,5 +15,5 @@ Here's the English Wikipedia article about [Github][Wiki].
 * Gitlab  
 
 GitHub, Gitlab, KitCat  
-There's a cat in my bag  
-The cat has a Jetlag  
+There's a cat in my **bag**  
+The cat has a _Jetlag_  
