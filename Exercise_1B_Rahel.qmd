@@ -1,0 +1,18 @@
+---
+title: "Exercise1B_Rahel"
+format: html
+editor: visual
+---
+
+```{r}
+samp <- rnbinom(100, size = 2, mu = 10) #taking 100 random values of negative binomial distribution and saving them as "samp"
+par(mfrow=c(1,2)) #placing the two following histograms next to each other
+hist(samp) #plotting histogram of the 100 random samples of the negative binomial distribution
+hist(log(samp+1)) #plotting histogram of logarithm of the sample + 1
+```
+
+# What I did:
+
+I drew 100 random values from the negative binomial distribution and saved them as "samp". Then I plotted them in two histograms. One of them with a log scale.
+
+The sample mean is 9.32 and the variance is 45.93697.
