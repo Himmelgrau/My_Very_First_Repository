@@ -13,3 +13,6 @@ Here's the English Wikipedia article about [Github][Wiki].
 * Git
 * GitHub
 * Gitlab
+GitHub, Gitlab, KitCat  
+There's a cat in my bag  
+The cat has a Jetlag  
